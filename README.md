@@ -1,4 +1,6 @@
 ## Example for Vue & Parcel
+- [Vue](https://vuejs.org/)
+- [Parcel](https://parceljs.org/)
 
 ## 参考资料
 - [Using Vue.js with Parcel.js Tutorial](https://jonathanmh.com/using-vue-js-with-parcel-js-tutorial/)
